@@ -1,5 +1,5 @@
 """
-WSGI config for vcar project.
+WSGI config for vcar2 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
